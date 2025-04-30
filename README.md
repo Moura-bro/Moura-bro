@@ -1,37 +1,39 @@
-#  Hi there! Welcome to my GitHub
+# 👋 E aí! Seja bem-vindo ao meu perfil no GitHub
 
-I'm a high school student in my second year, currently studying at **SENAI Antonio Skaf**. I'm just beginning my journey into the technical world, focusing on **Arduino** and **electronics**.
+Meu nome é **ptnber5**, sou um estudante de 16 anos dando meus primeiros passos no mundo da **programação**. Aqui é onde compartilho meus aprendizados, experiências e pequenos projetos que desenvolvo enquanto estudo.
 
-##  About me
+## 🚀 Quem sou eu?
 
 <div align="center"><br>
-    <a href="https://github.com/Moura-bro">
+    <a href="https://github.com/ptnber5">
         <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Santos-F&layout=compact&langs_count=16&theme=blueberry"
-             />
-     </a>
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&langs_count=8&theme=radical"
+        />
+    </a>
 </div>
 
--  Student at SENAI Antonio Skaf  
--  Learning **Arduino** and automation basics  
--  Interested in electronics, sensors, and hands-on projects  
--  I enjoy exploring, building circuits, and bringing ideas to life
+- 🎓 Estudante curioso e apaixonado por tecnologia  
+- 💻 Aprendendo **C++ em arduino** e lógica de programação  
+- 🧠 Buscando entender como os códigos funcionam "por dentro"  
+- 🔍 Explorando o universo do desenvolvimento com calma e vontade  
 
-##  Currently learning
+## 📘 O que estou estudando
 
-- Programming with **Arduino**  
-- Working with sensors, actuators, and prototyping boards  
-- Practical projects in automation and control
+- Conceitos básicos de programação: variáveis, estruturas de repetição, condições etc.  
+- Linguagens como **C++ em arduino**   
+- Pensamento lógico para resolver problemas com código  
 
-##  Next steps
+## 🎯 Meus objetivos
 
-- Build my first Arduino projects and share them here  
-- Learn more about robotics and home automation  
-- Take part in technical fairs or competitions
+- Criar projetos próprios e úteis para praticar  
+- Colaborar com outros iniciantes e aprender junto  
+- Me aprofundar no desenvolvimento web e, futuramente, em automação ou jogos  
+- Compartilhar minha evolução aqui, no GitHub 🚀
 
-##  Contact
+## 📩 Como falar comigo
 
-<a href = "mailto:contato@mbarrientorafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:mbarrientorafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 
 
 
