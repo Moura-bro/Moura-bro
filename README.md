@@ -5,7 +5,7 @@ I'm a high school student in my second year, currently studying at **SENAI Anton
 ##  About me
 
 <div align="center"><br>
-    <a href="https://github.com/Joao-Santos-F">
+    <a href="https://github.com/Moura-bro">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Santos-F&layout=compact&langs_count=16&theme=blueberry"
              />
