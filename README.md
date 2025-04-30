@@ -1,11 +1,11 @@
 # 👋 E aí! Seja bem-vindo ao meu perfil no GitHub
 
-Meu nome é **ptnber5**, sou um estudante de 16 anos dando meus primeiros passos no mundo da **programação**. Aqui é onde compartilho meus aprendizados, experiências e pequenos projetos que desenvolvo enquanto estudo.
+Meu nome é **Moura**, sou um estudante de 16 anos dando meus primeiros passos no mundo da **programação**. Aqui é onde compartilho meus aprendizados, experiências e pequenos projetos que desenvolvo enquanto estudo.
 
 ## 🚀 Quem sou eu?
 
 <div align="center"><br>
-    <a href="https://github.com/ptnber5">
+    <a href="https://github.com/Moura-bro">
         <img height="180em"
             src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&langs_count=8&theme=radical"
         />
