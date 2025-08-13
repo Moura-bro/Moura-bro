@@ -1,39 +1,61 @@
-# 👋 E aí! Seja bem-vindo ao meu perfil no GitHub
+<h1 align="center">Olá, Sejam bem-vindos👋</h1>
 
-Meu nome é **Moura**, sou um estudante de 16 anos dando meus primeiros passos no mundo da **programação**. Aqui é onde compartilho meus aprendizados, experiências e pequenos projetos que desenvolvo enquanto estudo.
+###
 
-## 🚀 Quem sou eu?
+<p align="left">Sou estudante de Desenvolvimento de Sistemas no SENAI de Informática, atualmente cursando o 2º semestre. Possuo certificações AI-900: Microsoft Azure AI Fundamentals e PL-900: Microsoft Power Platform Fundamentals. Resido em São Caetano do Sul, São Paulo.</p>
 
-<div align="center"><br>
-    <a href="https://github.com/Moura-bro">
-        <img height="180em"
-            src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&langs_count=8&theme=radical"
-        />
-    </a>
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">Sou jogador Profissional de Mk11<br>📚 I'm currently learning ... <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+
+###
+
+<h2 align="left">Tecnologias</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-- 🎓 Estudante curioso e apaixonado por tecnologia  
-- 💻 Aprendendo **C++ em arduino** e lógica de programação  
-- 🧠 Buscando entender como os códigos funcionam "por dentro"  
-- 🔍 Explorando o universo do desenvolvimento com calma e vontade  
+###
 
-## 📘 O que estou estudando
+<h2 align="left">Ferramentas</h2>
 
-- Conceitos básicos de programação: variáveis, estruturas de repetição, condições etc.  
-- Linguagens como **C++ em arduino**   
-- Pensamento lógico para resolver problemas com código  
+###
 
-## 🎯 Meus objetivos
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="40" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="40" alt="windows8 logo"  />
+</div>
 
-- Criar projetos próprios e úteis para praticar  
-- Colaborar com outros iniciantes e aprender junto  
-- Me aprofundar no desenvolvimento web e, futuramente, em automação ou jogos  
-- Compartilhar minha evolução aqui, no GitHub 🚀
-
-## 📩 Como falar comigo
-
-<a href = "mailto:mbarrientorafael@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-
-
-
+###
