@@ -19,15 +19,18 @@
 
 ## 🛠️ Tecnologias que uso ou estou aprendendo:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,html,css,js,git,github" />
+ <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moura-bro&show_icons=true&theme=tokyonight" height="170">
+ />
 </p>
 
 ---
 
 ## 📈 Minhas estatísticas:
 <p align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Moura-bro&show_icons=true&theme=tokyonight"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moura-bro&show_icons=true&theme=tokyonight" height="170">
+
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&theme=tokyonight" height="170">
+
 </p>
 
 ---
