@@ -31,17 +31,23 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&theme=tokyonight)
 
 
----
 
+
+
+---
+<!--
 ## 🎨 Tema colorido / estilo visual (novo GIF)
 <p align="center">
   <img src="https://media.giphy.com/media/l0HlRmB0apm9V4GGA/giphy.gif" width="350">
 </p>
-
+-->
 ---
 
 ## 🌐 Contato  
-📩 Email: **seuemail@gmail.com**  
-📎 GitHub: **github.com/Moura-bro**
+<a href="mailto:contatombarrientorafael@gmail.com" target="_blank">
+  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
+
+
 
 ---
