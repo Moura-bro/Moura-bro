@@ -26,9 +26,9 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-![Moura Stats](https://github-readme-stats.vercel.app/api?username=Moura-bro&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Moura-bro&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moura-bro&layout=compact&theme=tokyonight)
+
 
 
 
